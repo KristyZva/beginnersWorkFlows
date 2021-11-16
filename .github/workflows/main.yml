@@ -1,4 +1,4 @@
-name:DC
+name: DC
 
 on:
   push:
